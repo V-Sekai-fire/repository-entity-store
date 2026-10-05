@@ -1,6 +1,6 @@
 # repository-entity-store
 
-The fabric's repository side for entities: get, create and change an entity over the iceoryx2 ring.
+The fabric's repository side for entities, meant to get, create and change an entity over the iceoryx2 ring.
 
 ## What it is for
 
